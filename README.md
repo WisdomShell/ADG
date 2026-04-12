@@ -393,7 +393,7 @@ The selector depends on:
 - instruction embeddings,
 - clustering results.
 
-Run the previous stages before starting ADG selection.
+Run the previous stages before starting ADG selection. 
 
 ### 4. GPU memory pressure
 Generation, embedding, and scoring all use hidden-state-based processing. You may need to reduce batch size or adjust GPU allocation depending on your hardware.
