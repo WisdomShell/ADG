@@ -407,5 +407,15 @@ ADG 选择脚本依赖以下中间结果：
 如果你使用了本仓库，请同时引用对应论文。
 
 ```bibtex
+@misc{li2026instructiondataselectionanswer,
+      title={Instruction Data Selection via Answer Divergence}, 
+      author={Bo Li and Mingda Wang and Shikun Zhang and Wei Ye},
+      year={2026},
+      eprint={2604.10448},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2604.10448}, 
+}
+```
 
 ---
