@@ -407,5 +407,15 @@ Generation, embedding, and scoring all use hidden-state-based processing. You ma
 ## 📖 Citation
 
 If you use this repository, please cite the paper.
-
+```bibtex
+@misc{li2026instructiondataselectionanswer,
+      title={Instruction Data Selection via Answer Divergence}, 
+      author={Bo Li and Mingda Wang and Shikun Zhang and Wei Ye},
+      year={2026},
+      eprint={2604.10448},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2604.10448}, 
+}
+```
 ---
